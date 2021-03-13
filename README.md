@@ -1,4 +1,4 @@
-# EpicLauncherBypass
+# Epic Games Launcher Bypass
 This is a project that aims to remove the need for launching games via the Epic Games launcher by logging the command line arguements produced when Epic launches a game.  This can then be incorporated into a batch file to create an alternative launcher not requiring the Epic Launcher
 
 THIS DOES NOT WORK FOR ALL GAMES
